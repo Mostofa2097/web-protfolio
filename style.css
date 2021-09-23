@@ -53,7 +53,16 @@ section{
   color: azure;
   font-weight:700 ;
 }
-div{
-  margin: 40px;
-
+h4{
+  color: rgb(243, 189, 10);
+}
+.singel-exp{
+  box-shadow: 10px 10px 40px grey;
+  height: 65%;
+  border-radius: 10px;
+  border-left: 5px solid salmon ;
+}
+.experience{
+  background-image: url(img/exp-bg.png);
+  
 }
